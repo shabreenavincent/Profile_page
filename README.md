@@ -1,5 +1,5 @@
 # Profile Page
-## Date:
+## Date:07-07-2025
 ## Objective:
 
 To design a simple Profile Page using HTML that displays a user's profile image, name, headings, and a short bio, suitable for personal or academic purposes.
@@ -88,8 +88,8 @@ Focus on semantic HTML and readability.
 </html>
 ```
 ## Output:
+![Screenshot 2025-07-07 214203](https://github.com/user-attachments/assets/915946d8-f418-42e3-a6ad-e8b59f556812)
 
-![profile](https://github.com/user-attachments/assets/15bc1f06-f6e6-49d1-9bb7-c75740da428d)
 
 
 ## Result:
